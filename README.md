@@ -1,4 +1,7 @@
-## Hi there 👋
+# Isabel Maito
+
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-323330?style=for-the-badge&logo=LinkedIn&logoColor=blue)](https://www.linkedin.com/in/isabelmaito)
+
 
 <!--
 **isabelmaito/isabelmaito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
