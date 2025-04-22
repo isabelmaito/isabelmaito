@@ -5,7 +5,7 @@
 ##  :woman_technologist: About Me
 
 - Bachelor's Degree in Graphic Designer 
-- Software Development Student 
+- Cross-Platform Software Development Student 
 
 
 <!--
