@@ -6,7 +6,7 @@
 
 - Bachelor's Degree in Graphic Designer 
 - Software Development Student 
-- 
+
 
 <!--
 **isabelmaito/isabelmaito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
