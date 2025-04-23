@@ -10,6 +10,22 @@
 - 💼 **Freelancer (Software Development)**
 <br>
 
+## :octocat: GitHub Stats
+
+<img 
+  src="https://github-readme-stats-tau-pink-75.vercel.app/api?username=isabelmaito&hide=contributions&show=reviews,prs_merged&show_icons=true&count_private=true&private_contributions=true&include_all_commits=true&theme=jolly" 
+  width="56%" 
+  alt="GitHub Stats - Isabel" 
+/>
+<img 
+  src="https://github-readme-stats-tau-pink-75.vercel.app/api/top-langs/?username=isabelmaito&count_private=true&private_contributions=true&langs_count=6&layout=donut&theme=jolly" 
+  width="41.7%" 
+  alt="Top Languages - Isabel" 
+/>
+
+_(Explore <a href="https://github.com/anuraghazra/github-readme-stats">GitHub Readme Stats repository</a> to add your own cards to your profile!)_
+<br>
+
 ## :card_file_box: Stacks
 
 ### :computer: Software Developer
