@@ -8,6 +8,8 @@
 - 🎓 Bachelor's Degree in **Graphic Designer** 
 - :books: **Cross-Platform Software Development** Student
 - 💼 **Freelancer (Software Development)**
+- :space_invader: **Love** Games, movies, animes and culture pop/geek
+- :paw_prints: Mother of **5 cats :cat: and 2 dogs** :dog: 
 <br>
 
 ## :octocat: GitHub Stats
