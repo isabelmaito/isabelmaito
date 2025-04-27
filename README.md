@@ -5,7 +5,7 @@
 
 ##  :woman_technologist: About Me
 
-- 🎓 Bachelor's Degree in **Graphic Designer** 
+- 🎓 Bachelor's Degree in **Graphic Design** 
 - :books: **Cross-Platform Software Development** Student
 - 💼 **Freelancer (Software Development)**
 - :space_invader: **Love** Games, movies, animes and culture pop/geek
