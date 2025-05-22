@@ -1,8 +1,9 @@
 # Isabel Maito
 
 #### 📧 You can contact me on:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/isabelmaito) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/isabelmaito)
 
+Languages 🇧🇷 🇪🇸 🇬🇧 🇨🇳 
 <br>
 
 ##  :woman_technologist: About Me
